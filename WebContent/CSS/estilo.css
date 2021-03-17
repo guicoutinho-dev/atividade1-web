@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 	width: 600px;
 }
@@ -7,3 +8,28 @@ form {
 	padding: 30px;
 	background-color: silver;
 }
+=======
+
+
+
+
+body{
+    width: 300px;
+}
+
+form {
+    border-style: double;
+     padding: 50px;
+     background-color:silver
+}
+
+.textarea{
+
+margin-left: 10px; 
+width: 210px; 
+height: 90px; 
+max-width: 210px; 
+max-height: 100px; 
+
+}
+>>>>>>> 142d47e63eb96c5ea8ad4fefa3883c83259cac74
