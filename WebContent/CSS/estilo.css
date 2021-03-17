@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+body {
+	width: 600px;
+}
+
+form {
+	border-style: double;
+	padding: 30px;
+	background-color: silver;
+}
+=======
 
 
 
@@ -21,3 +32,4 @@ max-width: 210px;
 max-height: 100px; 
 
 }
+>>>>>>> 142d47e63eb96c5ea8ad4fefa3883c83259cac74
